@@ -11,10 +11,9 @@ body{
     background-color: beige;
 }
 .title{
-    margin: 2em 0px;
+    margin: 2em 0;
     width: 100%;
     max-width: 600px;
-    flex-grow: 0;
 }
 .cat-img{
     flex-grow: 1;
